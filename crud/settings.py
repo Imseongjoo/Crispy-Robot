@@ -32,7 +32,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://port-0-crispy-robot-17xqnr2algn9ajae.sel3.cloudtype.app/]
 
 
 # Application definition
